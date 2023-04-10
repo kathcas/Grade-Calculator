@@ -1,6 +1,6 @@
 HOW TO USE:
 
-You will need to have java downloaded.
+You will need to have Java downloaded. Theoretically macOS has this all pre-downloaded and not have to worry aabout it, but this website has a good tutorial for Windows-> https://www.freecodecamp.org/news/how-to-install-java-on-windows/
 
 Download the Course.class file. You can do this by clicking "View Raw" on the file in GitHub.
 
