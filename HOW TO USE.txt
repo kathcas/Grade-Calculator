@@ -1,0 +1,23 @@
+HOW TO USE:
+
+You will need to have java downloaded.
+
+Download the Course.class file. You can do this by clicking "View Raw" on the file in GitHub.
+
+Copy the file path of where you save the .class file. You will need this when you run the file.
+
+WINDOWS:
+
+Look up Command Prompt in the search bar. Open the program and type "cd" + the path you have copied into the first available type space. This space should follow something like "C:\Users\user>"
+
+Hit enter. If done correctly, you should see something like "C:\Users\user\" + the file path you copied in front of the next type space. There, type "java Course" and hit enter.
+
+The program should run. As long as you write the correct values, the program will work.
+
+MAC-OS:
+
+Open the terminal app, which will be located in "Applications/Utilities/Terminal.app". Type "cd" + the file path you have copied into the first available type space. This should look like something like "Jimmys-Macbook: jimmy$".
+
+Hit enter. If done correctly, you should see something like "Jimmys-Macbook:"+ the file path+ "~jimmy$" in front of the next type space. There, type "java Course" and hit enter.
+
+The program should run. Aslong as write the correct values, the program will work.
