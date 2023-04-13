@@ -1,4 +1,5 @@
 # Grade-Calculator
+AS OF RIGHT NOW THE CODE DOESN"T WORK PROPERLY
 This code calculates your grade for a course, but it also calculates what you'd need to get on the final to achieve a certain mark. 
 KEEP IN MIND THAT MOST COURSES REQUIRE YOU TO PASS A FINAL WITH 50%
 
